@@ -1,4 +1,5 @@
 ### Hi there 👋
+</br> I'm Crthian Canon, Software Development Student from <img src="https://icons8.com/icon/qvl7nGIi6mHR/colombia" width="13"/> <b>Bogotá, Colombia</b>, currently living in <img src="https://icons8.com/icon/ukyvCISvQSmB/malta-circular" width="13"/> <b>Malta.</b>. </p>
 
 <!--
 **CristhianC21/CristhianC21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
