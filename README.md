@@ -13,10 +13,12 @@
 </p>
 
 <h2>📱 Contact</h2>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Cristhian's LinkedIN" width="22px" src="https://www.linkedin.com/in/cristhian-canon-software-development-068518263/" />
+<a href="https://www.linkedin.com/in/cristhian-canon-software-development-068518263">
+  <img align="left" sp alt="Cristhian's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<a href="https://www.linkedin.com/in/cristhian-canon-software-development-068518263">
+  <img align="left" sp alt="Cristhian's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 <!--
 **CristhianC21/CristhianC21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
