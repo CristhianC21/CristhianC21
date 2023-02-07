@@ -1,5 +1,5 @@
 ### Hi there 👋
-</br> I'm Cristhian Canon, Software Development Student from <img src="https://cdn-icons-png.flaticon.com/512/197/197575.png" width="13"/> <b>Bogotá, Colombia</b>, currently living in <img src="<https://cdn-icons-png.flaticon.com/512/197/197625.png" width="13"/> <b>Malta.</b>. </p>
+</br> I'm Cristhian Canon, Software Development Student from <img src="https://cdn-icons-png.flaticon.com/512/197/197575.png" width="20"/> <b>Bogotá, Colombia</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197625.png" width="20"/> <b>Malta.</b></p>
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
@@ -11,6 +11,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30" />
 </p>
+
+<h2>📱 Contact</h2>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Cristhian's LinkedIN" width="22px" src="https://www.linkedin.com/in/cristhian-canon-software-development-068518263/" />
+</a>
 
 <!--
 **CristhianC21/CristhianC21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
